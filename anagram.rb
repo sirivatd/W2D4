@@ -53,3 +53,4 @@ def fourth_anagram?(str1, str2)
   
   str1_hash == str2_hash
 end
+#O(n)
